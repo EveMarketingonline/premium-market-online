@@ -1,2 +1,3 @@
-# premium-market-online
-Tienda en línea moderna y segura. Vende tus productos con carrito de compras y pagos integrados vía PayPal. Diseñada con una paleta de azul marino, verde bosque y blanco.
+# Premium Market Online
+Bienvenido a mi tienda en línea 🚀  
+Aquí encontrarás productos seleccionados con opción de carrito de compras y pagos fáciles con PayPal.
